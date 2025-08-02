@@ -23,7 +23,7 @@
 
 <br><br>  
 
-<h2 align="left"><font color="#CFCDCD">skills<sup><font size="1"> ?</font></sup></font></h2>
+<div align="left"><font size="3" color="#CFCDCD">skills<sup><font size="1"> ?</font></sup></font></div>
 
 <br><br>
 
