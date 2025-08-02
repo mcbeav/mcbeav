@@ -9,7 +9,7 @@
 
 <img  align="left"  width="600"  alt=""  src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/readme/readme.png"/>  
 
-<br><br>
+<br><br><br><br>
 
 <font size="2">hobbyist</font>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-<center><font size="1"><i>I have experience with many languages. Programming itself is the skill.</i></font></center>
+<center><font size="1"><i><small>I have experience with many languages. Programming itself is the skill.</small></i></font></center>
 
 <br><br>
 
