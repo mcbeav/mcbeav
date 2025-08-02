@@ -9,17 +9,17 @@
 
 <img  align="left"  width="600"  alt=""  src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/readme/readme.png"/>  
 
+<br><br>
+
 <font size="2">hobbyist</font>
 
 <font size="2">equal interest in hardware & software</font>
 
 <font size="2">vintage electronics enthusiast</font>
 
-</small>
-
 </div>
 
-<br><br>  
+<br><br> <br><br>
 
 <h3 align="right"><sup><i><font size="1">favorite</font></i></sup> languages &nbsp;&nbsp;&nbsp;&nbsp;</h3>
 
