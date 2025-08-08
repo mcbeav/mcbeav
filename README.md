@@ -1,5 +1,5 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<center><sup><i>hobbyist</i></sup></center>
+<font align="center"><sup><i>hobbyist</i></sup></font>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
